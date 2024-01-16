@@ -21,7 +21,7 @@ body {
     background-color: rgb(236, 193, 232);
     border-radius: 30px;
     margin: 100px auto;
-    border: solid 5px;
+    border: solid 5px whitesmoke;
     font-family: "digital7";
 }
 
@@ -31,7 +31,7 @@ body {
     height: 100px;
     background-color: white;
     border-radius: 10px;
-    border: solid .5px  rgb(226,175,221);
+    border: solid 1px  rgb(226,175,221);
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
@@ -63,7 +63,7 @@ body {
     height: 70px;
     border-radius: 10px;
     background-color: rgb(247, 238, 247);
-    border: solid 1px  rgb(226,175,221);
+    border: solid 1px rgb(226,175,221);
     font-family: "oldLondon";
 }
 .special {
